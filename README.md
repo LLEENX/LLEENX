@@ -1,4 +1,6 @@
-# rifal
+# Greetings 👋
+
+My name is Rifal Ariya Yusuftrian
 
 <p align="left">
 <a href="https://github.com/penuliscode">
