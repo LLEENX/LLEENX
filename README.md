@@ -1,6 +1,6 @@
 # Greetings 👋
 
-My name is Rifal Ariya Yusuftrian
+My name is Rifal Ariya Yusuftrian, im a informatics engineering student in University Muhamadiyah Ponorogo
 
 <p align="left">
 <a href="https://github.com/LLEENX">
