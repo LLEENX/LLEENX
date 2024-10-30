@@ -1,6 +1,6 @@
 # Greetings 👋
 
-My name is Rifal Ariya Yusuftrian, im a informatics engineering student in University Muhamadiyah Ponorogo
+My name is Rifal Ariya Yusuftrian, im a undergraduate informatics engineering student. Im very excited about Machine Learning stuff and how this potential tech on the future
 
 <p align="left">
 <a href="https://github.com/LLEENX">
