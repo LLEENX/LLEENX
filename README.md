@@ -3,15 +3,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/Web-Developer-orange?style=for-the-badge&logo=javascript&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Coding-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Watching%20Anime-FF9E0F?style=for-the-badge&logo=Crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playing%20Games-9146FF?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Listening%20to%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keep%20Learning-FFD700?style=for-the-badge&logo=bookstack&logoColor=black" />
 </p>
 
 ---
 
 ### 🌟 About Me:  
-- 🎯 Passionate about **Data Engineer, Back End Development**  
+- 🎯 Passionate about **Data Engineer, Back End Developer**  
 - 📖 Studying **Informatics Engineering at Muhammadiyah University Ponorogo**  
 - 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
 
