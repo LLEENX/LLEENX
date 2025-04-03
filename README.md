@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=llleenx.visitor-badge&left_color=blue&right_color=green&left_text=Visitors" alt="Visitor Count" />
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome!+🤗;My+Name+Is+Rifal;Nice+To+Meet+You" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome!+🤗;My+Name+Is+Rifal;Nice+To+Meet+You!" />
 </h1>
 
 <p align="center">
