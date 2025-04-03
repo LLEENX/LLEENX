@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lleenx.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lleenx.lleenx)
 
 
 # Greetings 👋
