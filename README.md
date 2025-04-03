@@ -1,4 +1,4 @@
-<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=LLEENNX.visitor-badge)" />
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LLEENNX.visitor-badge)
 
 
 # Greetings 👋
