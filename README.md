@@ -24,12 +24,12 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifalariya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lleenx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ### 🔥 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifalariya&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
