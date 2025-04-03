@@ -41,14 +41,6 @@
 ### 📬 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/rifalariya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rifalarya@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rifalariya13@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/rifalariya"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-
-<p align="left">
-<a href="https://github.com/LLEENX">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LLEENX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LLEENX&layout=compact&theme=algolia"/>
-</a>
 </p>
