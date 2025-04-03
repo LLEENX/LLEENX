@@ -1,8 +1,5 @@
-<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=LLEENNX)" />
+<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=LLEENNX.visitor-badge)" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?qfont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rifa+Indra+Setiawan!;+You+Can+Call+Me+Rifa.;" />
-</h1>
 
 # Greetings 👋
 
