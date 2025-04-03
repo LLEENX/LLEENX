@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Yellow?style=for-the-badge&logo=python&logoColor=Blue" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=Blue" />
   <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/Web-Developer-orange?style=for-the-badge&logo=javascript&logoColor=white" /> -->
 </p>
