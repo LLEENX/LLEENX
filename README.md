@@ -7,18 +7,17 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-Yellown?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-Developer-orange?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-Projects-green?style=for-the-badge&logo=arduino&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Web-Developer-orange?style=for-the-badge&logo=javascript&logoColor=white" /> -->
 </p>
 
 ---
 
-### 🌟 About Me:
-- 🚀 I’m currently working on **Smart Home Security & Sensor-based Monitoring Systems**  
-- 🎯 Passionate about **Web Development, IoT, and AI**  
+### 🌟 About Me:  
+- 🎯 Passionate about **Data Engineer, Back End Development**  
 - 📖 Studying **Informatics Engineering at Muhammadiyah University Ponorogo**  
-- 🛠️ Experienced in **C++, JavaScript, SQL, and Arduino**  
+- 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
 
 ---
 
