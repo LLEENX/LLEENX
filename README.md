@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,c,cpp,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,c++,html,css,js,bootstrap,php,mysql,c" />
 </p>
 
 ---
