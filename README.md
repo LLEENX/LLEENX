@@ -1,4 +1,6 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lleenx.lleenx)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?qfont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Welcome!+🤗;+I'm+Rifal+Ariya+Yusuftrian!" />
+</h1>
 
 
 # Greetings 👋
