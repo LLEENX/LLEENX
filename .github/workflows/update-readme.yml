@@ -1,0 +1,26 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # update setiap hari jam 00:00 UTC
+  workflow_dispatch: # bisa dijalankan manual juga
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate README with stats
+        run: |
+          echo '![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lleenx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=false&hide_title=false&custom_title=📈 GitHub Stats)' > README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README with latest stats"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
