@@ -1,12 +1,7 @@
-
-
-<div align="center" style="background: linear-gradient(90deg, #f06, #4a90e2); padding: 20px; border-radius: 10px;">
+<div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=5000&pause=500&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Rifal!+%F0%9F%91%8B;Welcome+to+My+Profile!;Let's+Connect+and+Collaborate!" 
-    alt="Typing animation: Hello I'm Rifal! Welcome to My Profile! Let's Connect and Collaborate!"
-  />
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hi!+I'm+Rifal+%F0%9F%91%8B;Welcome+to+My+Profile;Feel+Free+to+Explore!"/>
 </div>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding-0A66C2?style=for-the-badge&logo=codecrafters&logoColor=white" />
