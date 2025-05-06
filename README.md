@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding-0A66C2?style=for-the-badge&logo=codecrafters&logoColor=white" />
   <img src="https://img.shields.io/badge/Watching%20Anime-FF9E0F?style=for-the-badge&logo=Crunchyroll&logoColor=white" />
   <img src="https://img.shields.io/badge/Playing%20Games-9146FF?style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Listening%20to%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
