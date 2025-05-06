@@ -1,10 +1,10 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+My+Profile+👋;I'm+Rifal;Feel+Free+to+Explore!" 
-    alt="Typing animation: Hello There! I'm Rifal; Welcome to My Profile; Feel Free to Explore!"
+    src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=36&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hello!+I'm+Rifal;Great+to+Meet+You!" 
+    alt="Typing animation with bouncing effect: Hello! I'm Rifal. Great to Meet You!"
+    style="animation: bounce 1s infinite;"
   />
 </div>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding-0A66C2?style=for-the-badge&logo=codecrafters&logoColor=white" />
