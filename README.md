@@ -1,8 +1,8 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=36&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hello!+I'm+Rifal;Great+to+Meet+You!" 
-    alt="Typing animation with bouncing effect: Hello! I'm Rifal. Great to Meet You!"
-    style="animation: bounce 1s infinite;"
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=6000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hi!+I'm+Rifal+%F0%9F%91%8B;Welcome+to+My+GitHub;Feel+Free+to+Explore!" 
+    alt="Typing animation with gradient text: Hi! I'm Rifal! Welcome to My GitHub. Feel Free to Explore!"
+    style="background: linear-gradient(90deg, #ff6ec7, #7873f5); -webkit-background-clip: text; color: transparent;"
   />
 </div>
 
