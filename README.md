@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-l77ni796i-rifals-projects-19a4007c.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
 </p>
 
 ### 🔥 Most Used Languages:
