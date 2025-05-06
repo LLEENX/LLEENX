@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hello+There!+👋;I'm+Rifal;+Welcome+to+My+Profile;Feel+Free+to+Explore!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+My+Profile+👋;I'm+Rifal;Feel+Free+to+Explore!" 
     alt="Typing animation: Hello There! I'm Rifal; Welcome to My Profile; Feel Free to Explore!"
   />
 </div>
