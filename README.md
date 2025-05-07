@@ -14,8 +14,7 @@
 ---
 
 ### 🌟 About Me:  
-- 🎯 Passionate about **Data Engineer, Back End Developer**  
-- 📖 Studying **Informatics Engineering at Muhammadiyah University Ponorogo**  
+- 🎯 Passionate about **Data Engineer, Back End Developer**    
 - 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
 
 ---
