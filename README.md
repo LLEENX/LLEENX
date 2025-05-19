@@ -18,22 +18,24 @@
 - 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
 
 ---
-<table>
+
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" style="max-width: 100%;" />
       </p>
     </td>
-    <td>
+    <td style="vertical-align: top;">
       <h3 align="center">🔥 Most Used Languages</h3>
       <p align="center">
-        <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" />
+        <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" style="max-width: 100%;" />
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
