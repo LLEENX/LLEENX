@@ -21,11 +21,11 @@
 
 <table align="center" width="100%" cellspacing="0" cellpadding="10" style="border:none;">
   <tr style="border:none;">
-    <td align="center" width="50%" style="border:none;">
+    <td width="50%" style="border:0px; width:50%">
       <p><b>📊 GitHub Stats</b></p>
       <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
     </td>
-    <td align="center" width="50%" style="border:none;">
+    <td width="50%" style="border:0px; width:50%">
       <p><b>🔥 Most Used Languages</b></p>
       <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" />
     </td>
