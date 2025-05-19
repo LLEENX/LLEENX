@@ -33,7 +33,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,js,bootstrap,php,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,js,laravel,php,mysql,c,kotlin,java" />
 </p>
 
 ---
