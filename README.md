@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats & 🔥 Most Used Languages</h3>
+<h3 align="center">📊 GitHub Stats                🔥 Most Used Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" height="180"/>
