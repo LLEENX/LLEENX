@@ -19,20 +19,15 @@
 
 ---
 
-### 🌟 About Me|🔥 Most Used Languages
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+</p>
 
-<table align="center" width="100%" cellspacing="0" cellpadding="10" style="border:none;">
-  <tr style="border:none;">
-    <td width="50%" style="border:0px; width:50%">
-      <p><b>📊 GitHub Stats</b></p>
-      <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-    </td>
-    <td width="50%" style="border:0px; width:50%">
-      <p><b>🔥 Most Used Languages</b></p>
-      <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🔥 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" />
+</p>
 
 ---
 
