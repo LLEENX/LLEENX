@@ -12,20 +12,24 @@
 </p>
 
 ---
-<table>
-  <tr>
-    <td>### 🌟 About Me:  
-- 🎯 Passionate about **Data Engineer, Back End Developer, Software Engineer**    
-- 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
-</td>
-  </tr>
-</table>
 
 ### 🌟 About Me:  
 - 🎯 Passionate about **Data Engineer, Back End Developer, Software Engineer**    
 - 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
 
 ---
+<table>
+  <tr>
+    <td>### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+</p></td>
+    <td>### 🔥 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" />
+</p</td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats:
 <p align="center">
