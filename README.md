@@ -12,6 +12,14 @@
 </p>
 
 ---
+<table>
+  <tr>
+    <td>### 🌟 About Me:  
+- 🎯 Passionate about **Data Engineer, Back End Developer, Software Engineer**    
+- 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
+</td>
+  </tr>
+</table>
 
 ### 🌟 About Me:  
 - 🎯 Passionate about **Data Engineer, Back End Developer, Software Engineer**    
