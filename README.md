@@ -19,16 +19,17 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <h3 align="center">📊 GitHub Stats</h3>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div align="center" style="flex: 1; min-width: 300px;">
+    <h3>📊 GitHub Stats</h3>
     <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
   </div>
-  <div>
-    <h3 align="center">🔥 Most Used Languages</h3>
+  <div align="center" style="flex: 1; min-width: 300px;">
+    <h3>🔥 Most Used Languages</h3>
     <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" />
   </div>
 </div>
+
 
 ---
 
