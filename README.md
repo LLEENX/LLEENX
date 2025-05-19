@@ -21,17 +21,16 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td colspan="2" align="center" valign="top" width="50%">
       <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td colspan="2" align="center" valign="top" width="50%">
       <h3>🔥 Most Used Languages</h3>
       <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
 
 ---
 
