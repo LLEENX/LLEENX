@@ -23,12 +23,12 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api?username=lleenx&show_icons=true&theme=nightowl&cache_seconds=360&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 ### 🔥 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&hide=jupyternotebook&layout=donut-vertical&theme=nightowl" alt="Top Languages" />
+  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&layout=compact&theme=nightowl&cache_seconds=360" alt="Top Languages" />
 </p>
 
 ---
