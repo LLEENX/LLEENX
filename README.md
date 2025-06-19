@@ -28,7 +28,7 @@
 
 ### 🔥 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&hide=Jupyter%20Notebook,Hack&layout=compact&theme=nightowl&cache_seconds=420" alt="Top Languages" />
+  <img src="https://github-readme-stats-wheat-ten-97.vercel.app/api/top-langs/?username=lleenx&hide=Jupyter%20Notebook,Hack&layout=compact&theme=nightowl&cache_seconds=360" alt="Top Languages" />
 </p>
 
 ---
