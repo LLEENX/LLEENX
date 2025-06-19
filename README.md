@@ -17,7 +17,7 @@
 
 ### 🌟 About Me:  
 - 🎯 Passionate about **Data Engineer, Back End Developer, Software Engineer**    
-- 🛠️ Experienced in **Python, C++, JavaScript, SQL**  
+- 🛠️ Experienced in **Python, JavaScript, C++, SQL**  
 
 ---
 
